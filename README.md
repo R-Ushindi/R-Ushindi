@@ -29,7 +29,7 @@ My work focuses on designing rigorous analytical frameworks, applying appropriat
 
 Statistical evaluation of a quasi-experimental longitudinal study assessing EMDR therapy effectiveness among ICU healthcare professionals.
 
-👉 [View Repository](https://github.com/katiehuangx/emdr-ptsd-intervention-analysis)
+👉 [View Repository](https://github.com/R-Ushindi/EMDR-Intervention-Cameroon)
 
 ---
 
