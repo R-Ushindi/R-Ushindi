@@ -1,3 +1,4 @@
+![Portfolio banner](Assets/Portfolio.png) 
 # 📊 Statistical Analysis & Research Portfolio
 
 I specialize in applied statistical analysis, research methodology support, and data interpretation for healthcare, behavioral science, mental health, public health, and institutional research projects.
