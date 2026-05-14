@@ -115,3 +115,8 @@ Open to:
 - Behavioral and psychosocial research projects  
 - Mixed-methods research support  
 - Data analysis and reporting engagements
+
+📥 Submit a service request 
+
+*[Start a conversation](https://wa.me/254101271315)*
+
