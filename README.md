@@ -34,6 +34,14 @@ Statistical evaluation of a quasi-experimental longitudinal study assessing EMDR
 
 ---
 
+## 🔹 Acceptance & Commitment Therapy (ACT) Intervention Analysis
+
+Statistical analysis of a quasi-experimental longitudinal mental health intervention study evaluating the effectiveness of Acceptance and Commitment Therapy (ACT) on psychological outcomes among healthcare professionals using repeated measures and baseline-adjusted analytical approaches. 
+
+*(Portfolio repository in preparation.)* 
+
+--- 
+
 ## 🔹 Sexual Health Knowledge & Risk Behaviour Study
 
 Methodological and statistical support for a mixed-methods public health study examining sexual health knowledge, behavioral risk patterns, and socio-demographic predictors among young adults in Kenya.
@@ -42,7 +50,7 @@ Methodological and statistical support for a mixed-methods public health study e
 
 ---
 
-## 🔹 Emotional Self-Regulation & Meaning in Life Among Male Inmates
+## 🔹 Emotional Self-Regulation & Meaning in Life Among Male Inmates Study 
 
 Quantitative correlational analysis examining relationships between emotional regulation profiles and meaning in life among incarcerated men in a Kenyan correctional setting using validated psychometric instruments and chi-square analysis.
 
